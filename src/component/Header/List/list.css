@@ -1,0 +1,35 @@
+.full-container{
+    display:flex;
+   
+}
+
+.list-container{
+    display: flex;
+    margin:  15px;
+    border: 5px solid gray;
+    height: 450px;
+    width:83%;
+    background-color:black;
+}
+.image{
+    margin-right: 255px;
+    
+    width:50px;
+    
+
+    
+    
+}
+.details{
+    color:goldenrod;
+    text-align: left;
+
+}
+.player-button{
+    height:50px;
+    width:135px;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: orange;
+    color:green;
+}

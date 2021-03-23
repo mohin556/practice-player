@@ -1,0 +1,24 @@
+.header img{
+    height:400px;
+    width:1350px;
+    
+}
+.header nav{
+    background-color:aquamarine;
+    line-height: 50px;
+
+}
+nav a{
+    color:black;
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px;
+    
+}
+nav a:hover{
+    background-color: cornflowerblue;
+}
+h2{
+    color:green ;
+    border: 1px solid black;
+}
